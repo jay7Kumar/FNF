@@ -1,0 +1,795 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "EducationViewController"
+provides-nominal:
+- "9FNF_India23EducationViewControllerC"
+provides-member:
+- ["9FNF_India23EducationViewControllerC", ""]
+provides-dynamic-lookup:
+- "addCardview"
+- "addEducationDetails"
+- "addbuttonAction"
+- "cardCount"
+- "cardView"
+- "submitButton"
+- "submitButtonAction"
+- "viewDidLoad"
+depends-top-level:
+- !private "+="
+- !private "..<"
+- !private "<="
+- !private "AddCardView"
+- "AssignmentPrecedence"
+- "BaseViewController"
+- "CastingPrecedence"
+- "EducationViewController"
+- "FloatLiteralType"
+- "Int"
+- "IntegerLiteralType"
+- !private "StringLiteralType"
+- "UIButton"
+- "UIStackView"
+- !private "print"
+- !private "||"
+depends-member:
+- !private ["9FNF_India11AddCardViewC", "aggregate"]
+- !private ["9FNF_India11AddCardViewC", "certificateType"]
+- !private ["9FNF_India11AddCardViewC", "courseType"]
+- !private ["9FNF_India11AddCardViewC", "deinit"]
+- !private ["9FNF_India11AddCardViewC", "init"]
+- !private ["Sa", "count"]
+- !private ["Sa", "subscript"]
+- !private ["9FNF_India18BaseViewControllerC", "AddCardView"]
+- ["9FNF_India18BaseViewControllerC", "Int"]
+- ["9FNF_India18BaseViewControllerC", "UIButton"]
+- ["9FNF_India18BaseViewControllerC", "UIStackView"]
+- ["9FNF_India18BaseViewControllerC", ""]
+- ["9FNF_India18BaseViewControllerC", "addCardview"]
+- ["9FNF_India18BaseViewControllerC", "addEducationDetails"]
+- ["9FNF_India18BaseViewControllerC", "addbuttonAction"]
+- !private ["9FNF_India18BaseViewControllerC", "alertAction"]
+- !private ["9FNF_India18BaseViewControllerC", "buttonShadow"]
+- ["9FNF_India18BaseViewControllerC", "cardCount"]
+- ["9FNF_India18BaseViewControllerC", "cardView"]
+- ["9FNF_India18BaseViewControllerC", "init"]
+- !private ["9FNF_India18BaseViewControllerC", "navigationItem"]
+- !private ["9FNF_India18BaseViewControllerC", "print"]
+- ["9FNF_India18BaseViewControllerC", "submitButton"]
+- ["9FNF_India18BaseViewControllerC", "submitButtonAction"]
+- ["9FNF_India18BaseViewControllerC", "viewDidLoad"]
+- !private ["SK", "count"]
+- !private ["SK", "isEmpty"]
+- !private ["SK", "subscript"]
+- !private ["So15CALayerDelegateP", "addArrangedSubview"]
+- !private ["So15CALayerDelegateP", "aggregate"]
+- !private ["So15CALayerDelegateP", "arrangedSubviews"]
+- !private ["So15CALayerDelegateP", "certificateType"]
+- !private ["So15CALayerDelegateP", "courseType"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "text"]
+- !private ["s7CVarArgP", "AddCardView"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "addArrangedSubview"]
+- !private ["s7CVarArgP", "addCardview"]
+- !private ["s7CVarArgP", "addEducationDetails"]
+- !private ["s7CVarArgP", "aggregate"]
+- !private ["s7CVarArgP", "alertAction"]
+- !private ["s7CVarArgP", "arrangedSubviews"]
+- !private ["s7CVarArgP", "buttonShadow"]
+- !private ["s7CVarArgP", "cardCount"]
+- !private ["s7CVarArgP", "cardView"]
+- !private ["s7CVarArgP", "certificateType"]
+- !private ["s7CVarArgP", "count"]
+- !private ["s7CVarArgP", "courseType"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isEmpty"]
+- !private ["s7CVarArgP", "navigationItem"]
+- !private ["s7CVarArgP", "print"]
+- !private ["s7CVarArgP", "submitButton"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "title"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["Sl", "count"]
+- !private ["Sl", "isEmpty"]
+- !private ["Sl", "subscript"]
+- !private ["SL", "isEmpty"]
+- !private ["10Foundation15ContiguousBytesP", "count"]
+- !private ["10Foundation15ContiguousBytesP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "AddCardView"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "addArrangedSubview"]
+- !private ["s28CustomDebugStringConvertibleP", "addCardview"]
+- !private ["s28CustomDebugStringConvertibleP", "addEducationDetails"]
+- !private ["s28CustomDebugStringConvertibleP", "aggregate"]
+- !private ["s28CustomDebugStringConvertibleP", "alertAction"]
+- !private ["s28CustomDebugStringConvertibleP", "arrangedSubviews"]
+- !private ["s28CustomDebugStringConvertibleP", "buttonShadow"]
+- !private ["s28CustomDebugStringConvertibleP", "cardCount"]
+- !private ["s28CustomDebugStringConvertibleP", "cardView"]
+- !private ["s28CustomDebugStringConvertibleP", "certificateType"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "courseType"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isEmpty"]
+- !private ["s28CustomDebugStringConvertibleP", "navigationItem"]
+- !private ["s28CustomDebugStringConvertibleP", "print"]
+- !private ["s28CustomDebugStringConvertibleP", "submitButton"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "title"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s17CustomReflectableP", "addArrangedSubview"]
+- !private ["s17CustomReflectableP", "arrangedSubviews"]
+- !private ["s17CustomReflectableP", "count"]
+- !private ["s17CustomReflectableP", "isEmpty"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s17CustomReflectableP", "text"]
+- !private ["s23CustomStringConvertibleP", "AddCardView"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "addArrangedSubview"]
+- !private ["s23CustomStringConvertibleP", "addCardview"]
+- !private ["s23CustomStringConvertibleP", "addEducationDetails"]
+- !private ["s23CustomStringConvertibleP", "aggregate"]
+- !private ["s23CustomStringConvertibleP", "alertAction"]
+- !private ["s23CustomStringConvertibleP", "arrangedSubviews"]
+- !private ["s23CustomStringConvertibleP", "buttonShadow"]
+- !private ["s23CustomStringConvertibleP", "cardCount"]
+- !private ["s23CustomStringConvertibleP", "cardView"]
+- !private ["s23CustomStringConvertibleP", "certificateType"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "courseType"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isEmpty"]
+- !private ["s23CustomStringConvertibleP", "navigationItem"]
+- !private ["s23CustomStringConvertibleP", "print"]
+- !private ["s23CustomStringConvertibleP", "submitButton"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "title"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["10Foundation12DataProtocolP", "count"]
+- !private ["10Foundation12DataProtocolP", "subscript"]
+- !private ["Se", "addArrangedSubview"]
+- !private ["Se", "arrangedSubviews"]
+- !private ["Se", "count"]
+- !private ["Se", "isEmpty"]
+- !private ["Se", "subscript"]
+- !private ["Se", "text"]
+- !private ["9FNF_India23EducationViewControllerC", "AddCardView"]
+- ["9FNF_India23EducationViewControllerC", "Int"]
+- ["9FNF_India23EducationViewControllerC", "UIButton"]
+- ["9FNF_India23EducationViewControllerC", "UIStackView"]
+- ["9FNF_India23EducationViewControllerC", "addCardview"]
+- ["9FNF_India23EducationViewControllerC", "addEducationDetails"]
+- ["9FNF_India23EducationViewControllerC", "addbuttonAction"]
+- !private ["9FNF_India23EducationViewControllerC", "alertAction"]
+- !private ["9FNF_India23EducationViewControllerC", "buttonShadow"]
+- ["9FNF_India23EducationViewControllerC", "cardCount"]
+- ["9FNF_India23EducationViewControllerC", "cardView"]
+- ["9FNF_India23EducationViewControllerC", "deinit"]
+- ["9FNF_India23EducationViewControllerC", "init"]
+- !private ["9FNF_India23EducationViewControllerC", "navigationItem"]
+- !private ["9FNF_India23EducationViewControllerC", "print"]
+- ["9FNF_India23EducationViewControllerC", "submitButton"]
+- ["9FNF_India23EducationViewControllerC", "submitButtonAction"]
+- ["9FNF_India23EducationViewControllerC", "viewDidLoad"]
+- !private ["SE", "addArrangedSubview"]
+- !private ["SE", "arrangedSubviews"]
+- !private ["SE", "count"]
+- !private ["SE", "isEmpty"]
+- !private ["SE", "subscript"]
+- !private ["SE", "text"]
+- !private ["SQ", "AddCardView"]
+- ["SQ", ""]
+- !private ["SQ", "addArrangedSubview"]
+- !private ["SQ", "addCardview"]
+- !private ["SQ", "addEducationDetails"]
+- !private ["SQ", "aggregate"]
+- !private ["SQ", "alertAction"]
+- !private ["SQ", "arrangedSubviews"]
+- !private ["SQ", "buttonShadow"]
+- !private ["SQ", "cardCount"]
+- !private ["SQ", "cardView"]
+- !private ["SQ", "certificateType"]
+- !private ["SQ", "count"]
+- !private ["SQ", "courseType"]
+- !private ["SQ", "init"]
+- !private ["SQ", "isEmpty"]
+- !private ["SQ", "navigationItem"]
+- !private ["SQ", "print"]
+- !private ["SQ", "submitButton"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "text"]
+- !private ["SQ", "title"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["s25ExpressibleByArrayLiteralP", "count"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "isEmpty"]
+- !private ["s23ExpressibleByNilLiteralP", "addArrangedSubview"]
+- !private ["s23ExpressibleByNilLiteralP", "arrangedSubviews"]
+- !private ["s23ExpressibleByNilLiteralP", "text"]
+- !private ["s32ExpressibleByStringInterpolationP", "isEmpty"]
+- !private ["s26ExpressibleByStringLiteralP", "isEmpty"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "isEmpty"]
+- !private ["SH", "AddCardView"]
+- ["SH", ""]
+- !private ["SH", "addArrangedSubview"]
+- !private ["SH", "addCardview"]
+- !private ["SH", "addEducationDetails"]
+- !private ["SH", "aggregate"]
+- !private ["SH", "alertAction"]
+- !private ["SH", "arrangedSubviews"]
+- !private ["SH", "buttonShadow"]
+- !private ["SH", "cardCount"]
+- !private ["SH", "cardView"]
+- !private ["SH", "certificateType"]
+- !private ["SH", "count"]
+- !private ["SH", "courseType"]
+- !private ["SH", "init"]
+- !private ["SH", "isEmpty"]
+- !private ["SH", "navigationItem"]
+- !private ["SH", "print"]
+- !private ["SH", "submitButton"]
+- !private ["SH", "subscript"]
+- !private ["SH", "text"]
+- !private ["SH", "title"]
+- !private ["SH", "viewDidLoad"]
+- !private ["s25LosslessStringConvertibleP", "isEmpty"]
+- !private ["s10MirrorPathP", "isEmpty"]
+- !private ["SM", "count"]
+- !private ["SM", "subscript"]
+- !private ["10Foundation19MutableDataProtocolP", "count"]
+- !private ["10Foundation19MutableDataProtocolP", "subscript"]
+- !private ["So8NSCodingP", "AddCardView"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "addArrangedSubview"]
+- !private ["So8NSCodingP", "addCardview"]
+- !private ["So8NSCodingP", "addEducationDetails"]
+- !private ["So8NSCodingP", "aggregate"]
+- !private ["So8NSCodingP", "alertAction"]
+- !private ["So8NSCodingP", "arrangedSubviews"]
+- !private ["So8NSCodingP", "buttonShadow"]
+- !private ["So8NSCodingP", "cardCount"]
+- !private ["So8NSCodingP", "cardView"]
+- !private ["So8NSCodingP", "certificateType"]
+- !private ["So8NSCodingP", "courseType"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "isEmpty"]
+- !private ["So8NSCodingP", "navigationItem"]
+- !private ["So8NSCodingP", "print"]
+- !private ["So8NSCodingP", "submitButton"]
+- !private ["So8NSCodingP", "text"]
+- !private ["So8NSCodingP", "title"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So9NSCopyingP", "isEmpty"]
+- !private ["So26NSExtensionRequestHandlingP", "AddCardView"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "addCardview"]
+- !private ["So26NSExtensionRequestHandlingP", "addEducationDetails"]
+- !private ["So26NSExtensionRequestHandlingP", "alertAction"]
+- !private ["So26NSExtensionRequestHandlingP", "buttonShadow"]
+- !private ["So26NSExtensionRequestHandlingP", "cardCount"]
+- !private ["So26NSExtensionRequestHandlingP", "cardView"]
+- !private ["So26NSExtensionRequestHandlingP", "navigationItem"]
+- !private ["So26NSExtensionRequestHandlingP", "print"]
+- !private ["So26NSExtensionRequestHandlingP", "submitButton"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So21NSItemProviderReadingP", "isEmpty"]
+- !private ["So21NSItemProviderWritingP", "isEmpty"]
+- !private ["So16NSMutableCopyingP", "isEmpty"]
+- !private ["So8NSObjectC", "AddCardView"]
+- ["So8NSObjectC", "Int"]
+- ["So8NSObjectC", "UIButton"]
+- ["So8NSObjectC", "UIStackView"]
+- !private ["So8NSObjectC", "addArrangedSubview"]
+- ["So8NSObjectC", "addCardview"]
+- ["So8NSObjectC", "addEducationDetails"]
+- ["So8NSObjectC", "addbuttonAction"]
+- !private ["So8NSObjectC", "aggregate"]
+- !private ["So8NSObjectC", "alertAction"]
+- !private ["So8NSObjectC", "arrangedSubviews"]
+- !private ["So8NSObjectC", "buttonShadow"]
+- ["So8NSObjectC", "cardCount"]
+- ["So8NSObjectC", "cardView"]
+- !private ["So8NSObjectC", "certificateType"]
+- !private ["So8NSObjectC", "courseType"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "isEmpty"]
+- !private ["So8NSObjectC", "navigationItem"]
+- !private ["So8NSObjectC", "print"]
+- ["So8NSObjectC", "submitButton"]
+- ["So8NSObjectC", "submitButtonAction"]
+- !private ["So8NSObjectC", "text"]
+- !private ["So8NSObjectC", "title"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So8NSObjectP", "AddCardView"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "addArrangedSubview"]
+- !private ["So8NSObjectP", "addCardview"]
+- !private ["So8NSObjectP", "addEducationDetails"]
+- !private ["So8NSObjectP", "aggregate"]
+- !private ["So8NSObjectP", "alertAction"]
+- !private ["So8NSObjectP", "arrangedSubviews"]
+- !private ["So8NSObjectP", "buttonShadow"]
+- !private ["So8NSObjectP", "cardCount"]
+- !private ["So8NSObjectP", "cardView"]
+- !private ["So8NSObjectP", "certificateType"]
+- !private ["So8NSObjectP", "courseType"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "isEmpty"]
+- !private ["So8NSObjectP", "navigationItem"]
+- !private ["So8NSObjectP", "print"]
+- !private ["So8NSObjectP", "submitButton"]
+- !private ["So8NSObjectP", "text"]
+- !private ["So8NSObjectP", "title"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["So14NSSecureCodingP", "isEmpty"]
+- !private ["So8NSStringC", "isEmpty"]
+- !private ["Sq", "addArrangedSubview"]
+- !private ["Sq", "arrangedSubviews"]
+- !private ["Sq", "text"]
+- !private ["Sk", "count"]
+- !private ["Sk", "subscript"]
+- !private ["Sm", "count"]
+- !private ["Sm", "isEmpty"]
+- !private ["Sm", "subscript"]
+- !private ["ST", "count"]
+- !private ["ST", "isEmpty"]
+- !private ["ST", "subscript"]
+- !private ["SS", "isEmpty"]
+- !private ["Sy", "isEmpty"]
+- !private ["s16TextOutputStreamP", "isEmpty"]
+- !private ["s20TextOutputStreamableP", "isEmpty"]
+- !private ["So29UIAccessibilityIdentificationP", "addArrangedSubview"]
+- !private ["So29UIAccessibilityIdentificationP", "aggregate"]
+- !private ["So29UIAccessibilityIdentificationP", "arrangedSubviews"]
+- !private ["So29UIAccessibilityIdentificationP", "certificateType"]
+- !private ["So29UIAccessibilityIdentificationP", "courseType"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So12UIAppearanceP", "addArrangedSubview"]
+- !private ["So12UIAppearanceP", "aggregate"]
+- !private ["So12UIAppearanceP", "arrangedSubviews"]
+- !private ["So12UIAppearanceP", "certificateType"]
+- !private ["So12UIAppearanceP", "courseType"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "text"]
+- !private ["So21UIAppearanceContainerP", "AddCardView"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "addArrangedSubview"]
+- !private ["So21UIAppearanceContainerP", "addCardview"]
+- !private ["So21UIAppearanceContainerP", "addEducationDetails"]
+- !private ["So21UIAppearanceContainerP", "aggregate"]
+- !private ["So21UIAppearanceContainerP", "alertAction"]
+- !private ["So21UIAppearanceContainerP", "arrangedSubviews"]
+- !private ["So21UIAppearanceContainerP", "buttonShadow"]
+- !private ["So21UIAppearanceContainerP", "cardCount"]
+- !private ["So21UIAppearanceContainerP", "cardView"]
+- !private ["So21UIAppearanceContainerP", "certificateType"]
+- !private ["So21UIAppearanceContainerP", "courseType"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "navigationItem"]
+- !private ["So21UIAppearanceContainerP", "print"]
+- !private ["So21UIAppearanceContainerP", "submitButton"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So18UIContentContainerP", "AddCardView"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "addCardview"]
+- !private ["So18UIContentContainerP", "addEducationDetails"]
+- !private ["So18UIContentContainerP", "alertAction"]
+- !private ["So18UIContentContainerP", "buttonShadow"]
+- !private ["So18UIContentContainerP", "cardCount"]
+- !private ["So18UIContentContainerP", "cardView"]
+- !private ["So18UIContentContainerP", "navigationItem"]
+- !private ["So18UIContentContainerP", "print"]
+- !private ["So18UIContentContainerP", "submitButton"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So9UIControlC", "text"]
+- !private ["So17UICoordinateSpaceP", "addArrangedSubview"]
+- !private ["So17UICoordinateSpaceP", "aggregate"]
+- !private ["So17UICoordinateSpaceP", "arrangedSubviews"]
+- !private ["So17UICoordinateSpaceP", "certificateType"]
+- !private ["So17UICoordinateSpaceP", "courseType"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So13UIDynamicItemP", "addArrangedSubview"]
+- !private ["So13UIDynamicItemP", "aggregate"]
+- !private ["So13UIDynamicItemP", "arrangedSubviews"]
+- !private ["So13UIDynamicItemP", "certificateType"]
+- !private ["So13UIDynamicItemP", "courseType"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "text"]
+- !private ["So18UIFocusEnvironmentP", "AddCardView"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "addArrangedSubview"]
+- !private ["So18UIFocusEnvironmentP", "addCardview"]
+- !private ["So18UIFocusEnvironmentP", "addEducationDetails"]
+- !private ["So18UIFocusEnvironmentP", "aggregate"]
+- !private ["So18UIFocusEnvironmentP", "alertAction"]
+- !private ["So18UIFocusEnvironmentP", "arrangedSubviews"]
+- !private ["So18UIFocusEnvironmentP", "buttonShadow"]
+- !private ["So18UIFocusEnvironmentP", "cardCount"]
+- !private ["So18UIFocusEnvironmentP", "cardView"]
+- !private ["So18UIFocusEnvironmentP", "certificateType"]
+- !private ["So18UIFocusEnvironmentP", "courseType"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "navigationItem"]
+- !private ["So18UIFocusEnvironmentP", "print"]
+- !private ["So18UIFocusEnvironmentP", "submitButton"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", "addArrangedSubview"]
+- !private ["So11UIFocusItemP", "aggregate"]
+- !private ["So11UIFocusItemP", "arrangedSubviews"]
+- !private ["So11UIFocusItemP", "certificateType"]
+- !private ["So11UIFocusItemP", "courseType"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So20UIFocusItemContainerP", "addArrangedSubview"]
+- !private ["So20UIFocusItemContainerP", "aggregate"]
+- !private ["So20UIFocusItemContainerP", "arrangedSubviews"]
+- !private ["So20UIFocusItemContainerP", "certificateType"]
+- !private ["So20UIFocusItemContainerP", "courseType"]
+- !private ["So20UIFocusItemContainerP", "init"]
+- !private ["So20UIFocusItemContainerP", "text"]
+- !private ["So10UIKeyInputP", "text"]
+- !private ["So24UILargeContentViewerItemP", "addArrangedSubview"]
+- !private ["So24UILargeContentViewerItemP", "aggregate"]
+- !private ["So24UILargeContentViewerItemP", "arrangedSubviews"]
+- !private ["So24UILargeContentViewerItemP", "certificateType"]
+- !private ["So24UILargeContentViewerItemP", "courseType"]
+- !private ["So24UILargeContentViewerItemP", "init"]
+- !private ["So24UILargeContentViewerItemP", "text"]
+- !private ["So16UINavigationItemC", "title"]
+- !private ["So30UIPasteConfigurationSupportingP", "AddCardView"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "addArrangedSubview"]
+- !private ["So30UIPasteConfigurationSupportingP", "addCardview"]
+- !private ["So30UIPasteConfigurationSupportingP", "addEducationDetails"]
+- !private ["So30UIPasteConfigurationSupportingP", "aggregate"]
+- !private ["So30UIPasteConfigurationSupportingP", "alertAction"]
+- !private ["So30UIPasteConfigurationSupportingP", "arrangedSubviews"]
+- !private ["So30UIPasteConfigurationSupportingP", "buttonShadow"]
+- !private ["So30UIPasteConfigurationSupportingP", "cardCount"]
+- !private ["So30UIPasteConfigurationSupportingP", "cardView"]
+- !private ["So30UIPasteConfigurationSupportingP", "certificateType"]
+- !private ["So30UIPasteConfigurationSupportingP", "courseType"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "navigationItem"]
+- !private ["So30UIPasteConfigurationSupportingP", "print"]
+- !private ["So30UIPasteConfigurationSupportingP", "submitButton"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- !private ["So22UIPickerViewDataSourceP", "aggregate"]
+- !private ["So22UIPickerViewDataSourceP", "certificateType"]
+- !private ["So22UIPickerViewDataSourceP", "courseType"]
+- !private ["So22UIPickerViewDataSourceP", "init"]
+- !private ["So20UIPickerViewDelegateP", "aggregate"]
+- !private ["So20UIPickerViewDelegateP", "certificateType"]
+- !private ["So20UIPickerViewDelegateP", "courseType"]
+- !private ["So20UIPickerViewDelegateP", "init"]
+- !private ["So11UIResponderC", "AddCardView"]
+- ["So11UIResponderC", "Int"]
+- ["So11UIResponderC", "UIButton"]
+- ["So11UIResponderC", "UIStackView"]
+- !private ["So11UIResponderC", "addArrangedSubview"]
+- ["So11UIResponderC", "addCardview"]
+- ["So11UIResponderC", "addEducationDetails"]
+- ["So11UIResponderC", "addbuttonAction"]
+- !private ["So11UIResponderC", "aggregate"]
+- !private ["So11UIResponderC", "alertAction"]
+- !private ["So11UIResponderC", "arrangedSubviews"]
+- !private ["So11UIResponderC", "buttonShadow"]
+- ["So11UIResponderC", "cardCount"]
+- ["So11UIResponderC", "cardView"]
+- !private ["So11UIResponderC", "certificateType"]
+- !private ["So11UIResponderC", "courseType"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "navigationItem"]
+- !private ["So11UIResponderC", "print"]
+- ["So11UIResponderC", "submitButton"]
+- ["So11UIResponderC", "submitButtonAction"]
+- !private ["So11UIResponderC", "text"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "AddCardView"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "addArrangedSubview"]
+- !private ["So30UIResponderStandardEditActionsP", "addCardview"]
+- !private ["So30UIResponderStandardEditActionsP", "addEducationDetails"]
+- !private ["So30UIResponderStandardEditActionsP", "aggregate"]
+- !private ["So30UIResponderStandardEditActionsP", "alertAction"]
+- !private ["So30UIResponderStandardEditActionsP", "arrangedSubviews"]
+- !private ["So30UIResponderStandardEditActionsP", "buttonShadow"]
+- !private ["So30UIResponderStandardEditActionsP", "cardCount"]
+- !private ["So30UIResponderStandardEditActionsP", "cardView"]
+- !private ["So30UIResponderStandardEditActionsP", "certificateType"]
+- !private ["So30UIResponderStandardEditActionsP", "courseType"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "navigationItem"]
+- !private ["So30UIResponderStandardEditActionsP", "print"]
+- !private ["So30UIResponderStandardEditActionsP", "submitButton"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So11UIStackViewC", "addArrangedSubview"]
+- !private ["So11UIStackViewC", "arrangedSubviews"]
+- !private ["So16UIStateRestoringP", "AddCardView"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "addCardview"]
+- !private ["So16UIStateRestoringP", "addEducationDetails"]
+- !private ["So16UIStateRestoringP", "alertAction"]
+- !private ["So16UIStateRestoringP", "buttonShadow"]
+- !private ["So16UIStateRestoringP", "cardCount"]
+- !private ["So16UIStateRestoringP", "cardView"]
+- !private ["So16UIStateRestoringP", "navigationItem"]
+- !private ["So16UIStateRestoringP", "print"]
+- !private ["So16UIStateRestoringP", "submitButton"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So15UITextDraggableP", "text"]
+- !private ["So15UITextDroppableP", "text"]
+- !private ["So11UITextFieldC", "text"]
+- !private ["So11UITextInputP", "text"]
+- !private ["So17UITextInputTraitsP", "text"]
+- !private ["So34UITextPasteConfigurationSupportingP", "text"]
+- !private ["So18UITraitEnvironmentP", "AddCardView"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "addArrangedSubview"]
+- !private ["So18UITraitEnvironmentP", "addCardview"]
+- !private ["So18UITraitEnvironmentP", "addEducationDetails"]
+- !private ["So18UITraitEnvironmentP", "aggregate"]
+- !private ["So18UITraitEnvironmentP", "alertAction"]
+- !private ["So18UITraitEnvironmentP", "arrangedSubviews"]
+- !private ["So18UITraitEnvironmentP", "buttonShadow"]
+- !private ["So18UITraitEnvironmentP", "cardCount"]
+- !private ["So18UITraitEnvironmentP", "cardView"]
+- !private ["So18UITraitEnvironmentP", "certificateType"]
+- !private ["So18UITraitEnvironmentP", "courseType"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "navigationItem"]
+- !private ["So18UITraitEnvironmentP", "print"]
+- !private ["So18UITraitEnvironmentP", "submitButton"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "AddCardView"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "addArrangedSubview"]
+- !private ["So23UIUserActivityRestoringP", "addCardview"]
+- !private ["So23UIUserActivityRestoringP", "addEducationDetails"]
+- !private ["So23UIUserActivityRestoringP", "aggregate"]
+- !private ["So23UIUserActivityRestoringP", "alertAction"]
+- !private ["So23UIUserActivityRestoringP", "arrangedSubviews"]
+- !private ["So23UIUserActivityRestoringP", "buttonShadow"]
+- !private ["So23UIUserActivityRestoringP", "cardCount"]
+- !private ["So23UIUserActivityRestoringP", "cardView"]
+- !private ["So23UIUserActivityRestoringP", "certificateType"]
+- !private ["So23UIUserActivityRestoringP", "courseType"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "navigationItem"]
+- !private ["So23UIUserActivityRestoringP", "print"]
+- !private ["So23UIUserActivityRestoringP", "submitButton"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So6UIViewC", "addArrangedSubview"]
+- !private ["So6UIViewC", "aggregate"]
+- !private ["So6UIViewC", "arrangedSubviews"]
+- !private ["So6UIViewC", "certificateType"]
+- !private ["So6UIViewC", "courseType"]
+- !private ["So6UIViewC", "init"]
+- !private ["So6UIViewC", "text"]
+- !private ["So16UIViewControllerC", "AddCardView"]
+- ["So16UIViewControllerC", "Int"]
+- ["So16UIViewControllerC", "UIButton"]
+- ["So16UIViewControllerC", "UIStackView"]
+- ["So16UIViewControllerC", "addCardview"]
+- ["So16UIViewControllerC", "addEducationDetails"]
+- ["So16UIViewControllerC", "addbuttonAction"]
+- !private ["So16UIViewControllerC", "alertAction"]
+- !private ["So16UIViewControllerC", "buttonShadow"]
+- ["So16UIViewControllerC", "cardCount"]
+- ["So16UIViewControllerC", "cardView"]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "navigationItem"]
+- !private ["So16UIViewControllerC", "print"]
+- ["So16UIViewControllerC", "submitButton"]
+- ["So16UIViewControllerC", "submitButtonAction"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["s14_ArrayProtocolP", "count"]
+- !private ["s14_ArrayProtocolP", "subscript"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "isEmpty"]
+- !private ["s24_DestructorSafeContainerP", "count"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "isEmpty"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "isEmpty"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "isEmpty"]
+- !private ["s19_HasContiguousBytesP", "count"]
+- !private ["s19_HasContiguousBytesP", "isEmpty"]
+- !private ["s19_HasContiguousBytesP", "subscript"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "count"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "isEmpty"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "AddCardView"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addArrangedSubview"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addCardview"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addEducationDetails"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "aggregate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "alertAction"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "arrangedSubviews"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "buttonShadow"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cardCount"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cardView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "certificateType"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "courseType"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isEmpty"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "navigationItem"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "print"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "submitButton"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "title"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "AddCardView"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "addArrangedSubview"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "addCardview"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "addEducationDetails"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "aggregate"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "alertAction"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "arrangedSubviews"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "buttonShadow"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "cardCount"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "cardView"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "certificateType"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "courseType"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "isEmpty"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "navigationItem"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "print"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "submitButton"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "text"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "title"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "addArrangedSubview"]
+- !private ["s21_ObjectiveCBridgeableP", "arrangedSubviews"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- !private ["s21_ObjectiveCBridgeableP", "isEmpty"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "text"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "addArrangedSubview"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "aggregate"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "arrangedSubviews"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "certificateType"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "courseType"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "text"]
+depends-nominal:
+- !private "9FNF_India11AddCardViewC"
+- !private "Sa"
+- "9FNF_India18BaseViewControllerC"
+- !private "SK"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- !private "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- "9FNF_India23EducationViewControllerC"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "Sq"
+- !private "Sk"
+- !private "Sm"
+- !private "ST"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So9UIControlC"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So10UIKeyInputP"
+- !private "So24UILargeContentViewerItemP"
+- !private "So16UINavigationItemC"
+- "So30UIPasteConfigurationSupportingP"
+- !private "So22UIPickerViewDataSourceP"
+- !private "So20UIPickerViewDelegateP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So11UIStackViewC"
+- "So16UIStateRestoringP"
+- !private "So15UITextDraggableP"
+- !private "So15UITextDroppableP"
+- !private "So11UITextFieldC"
+- !private "So11UITextInputP"
+- !private "So17UITextInputTraitsP"
+- !private "So34UITextPasteConfigurationSupportingP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "s14_ArrayProtocolP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/ObjectiveC.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreMIDI.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreMedia.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/simd.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreImage.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/QuartzCore.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Dispatch.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Metal.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Darwin.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Foundation.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/AVFoundation.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreFoundation.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreAudio.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreGraphics.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Swift.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/UIKit.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/SwiftOnoneSupport.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Combine.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/CoreMedia.framework/Headers/CoreMedia.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/CoreAudioTypes.framework/Headers/CoreAudioTypes.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/MediaToolbox.framework/Headers/MediaToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "ddb7d8123b696f2693365a9a63fc366a"

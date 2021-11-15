@@ -1,0 +1,10 @@
+<?php
+ini_set("display_errors","0");
+$conn=mysqli_connect('localhost', 'root', '', 'preonboarding_with_basicdata');
+
+if(!$conn){
+    echo 'failed to connect'.mysqli_error($conn);
+}
+
+
+$response = array();

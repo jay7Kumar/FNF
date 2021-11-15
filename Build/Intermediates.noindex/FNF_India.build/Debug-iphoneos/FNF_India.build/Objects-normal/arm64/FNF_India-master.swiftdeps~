@@ -1,0 +1,18 @@
+version: "Apple Swift version 5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
+options: "8ed1453e78c320752a0dcf8980b4675b"
+build_time: [1587473319, 584956000]
+inputs:
+  "/Users/mercurius/Desktop/FNF_India/FNF_India/YPDrawSignatureView.swift": [1584536102, 872207687]
+  "/Users/mercurius/Desktop/FNF_India/FNF_India/AppDelegate.swift": [1583232010, 0]
+  "/Users/mercurius/Desktop/FNF_India/FNF_India/WelcomeViewController.swift": [1584679289, 465142648]
+  "/Users/mercurius/Desktop/FNF_India/FNF_India/BaseViewController.swift": [1583319240, 0]
+  "/Users/mercurius/Desktop/FNF_India/FNF_India/EducationDetailsViewController.swift": [1583388803, 0]
+  "/Users/mercurius/Desktop/FNF_India/FNF_India/PersonalDetailsViewController.swift": [1585635786, 877449207]
+  "/Users/mercurius/Desktop/FNF_India/FNF_India/RegistrationViewController.swift": [1585542932, 604874179]
+  "/Users/mercurius/Desktop/FNF_India/FNF_India/AddCardView.swift": [1584521050, 392398829]
+  "/Users/mercurius/Desktop/FNF_India/FNF_India/EducationViewController.swift": [1585635473, 176579831]
+  "/Users/mercurius/Desktop/FNF_India/FNF_India/SignatureViewController.swift": [1583729832, 0]
+  "/Users/mercurius/Desktop/FNF_India/FNF_India/AuthenticationViewController.swift": [1587461165, 972440700]
+  "/Users/mercurius/Desktop/FNF_India/FNF_India/EducationDetailsCellTableViewCell.swift": [1583389914, 0]
+  "/Users/mercurius/Desktop/FNF_India/FNF_India/SceneDelegate.swift": [1583129446, 0]
+  "/Users/mercurius/Desktop/FNF_India/FNF_India/EmergencyAndOtherDetailsViewController.swift": [1584701581, 180830482]
